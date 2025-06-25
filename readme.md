@@ -25,6 +25,6 @@ Você pode acessar o notebook diretamente pelo Google Colab:
 👉 [Clique aqui para abrir no Colab](https://colab.research.google.com/drive/1OcdUxJDeqc4DtSQr6_uTpi2EyLMwWeJF?usp=sharing)
 
 
-✍️ Autor
-Feito com dedicação por Taíta
+✍️ Autor: 
+Feito com dedicação por Taíta - 
 Esse é só o começo da minha jornada com análise de dados!
